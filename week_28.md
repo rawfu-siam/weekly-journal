@@ -29,3 +29,10 @@ learned - started new project - "sop-proposal-copilot"
 **What I did -**
 pushed .gitignore file of project "sop-proposal-copilot"
 ---
+## Day 194  (20 November 2026)
+
+**What I learned -**
+learned - started new project - "sop-proposal-copilot"
+**What I did -**
+pushed pyproject.toml file of project "sop-proposal-copilot"
+---
