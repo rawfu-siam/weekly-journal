@@ -43,3 +43,10 @@ learned - started new project - "sop-proposal-copilot"
 **What I did -**
 pushed .pre-commit-config.yaml file of project "sop-proposal-copilot"
 ---
+## Day 196  (22 November 2026)
+
+**What I learned -**
+learned - started new project - "sop-proposal-copilot"
+**What I did -**
+pushed requirements.txt file of project "sop-proposal-copilot"
+---
